@@ -17,9 +17,9 @@ This section documents my Java fundamentals, programming concepts, coding exerci
 | No. | Topic | Status |
 |---|---|---|
 | 1 | Variables and Data Types | ✅ Completed |
-| 2 | Conditional Statements | 🔄 In Progress |
-| 3 | Loops | 🔄 In Progress |
-| 4 | Pattern Programming | ⏳ Upcoming |
+| 2 | Conditional Statements | ✅ Completed |
+| 3 | Loops | ✅ Completed |
+| 4 | Pattern Programming | 🔄 In Progress |
 | 5 | Methods and Functions | ⏳ Upcoming |
 | 6 | Arrays Basics | ⏳ Upcoming |
 | 7 | Strings Basics | ⏳ Upcoming |
@@ -40,7 +40,8 @@ This section documents my Java fundamentals, programming concepts, coding exerci
 | Day | Topics | Status |
 |---|---|---|
 | Day 1 | Variables, Data Types and Basic Java Programs | ✅ Completed |
-| Day 2 | Conditional Statements and Loops | 🔄 In Progress |
+| Day 2 | Conditional Statements and Loops | ✅ Completed |
+| Day 3 | Pattern Programming | 🔄 In Progress |
 
 ## 📂 Repository Structure
 
@@ -53,7 +54,11 @@ This section documents my Java fundamentals, programming concepts, coding exerci
 │   ├── README.md
 │   └── Java Practice Programs
 │
-└── 02-Conditional-Statements-Loops/
+├── 02-Conditional-Statements-Loops/
+│   ├── README.md
+│   └── Java Practice Programs
+│
+└── 03-Pattern-Programming/
     ├── README.md
     └── Java Practice Programs
 ```
