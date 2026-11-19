@@ -36,6 +36,28 @@
 | 14 | Butterfly Pattern | Completed |
 | 15 | Right Pascal Triangle | Completed |
 
+## 🧠 Important Concepts Learned
+
+- Outer loops control the number of rows.
+- Inner loops control the number of columns.
+- Spaces help align pyramid and diamond patterns.
+- Nested loops are useful for creating complex patterns.
+- Conditional statements help create hollow and binary patterns.
+
+## ⏱️ Time Complexity
+
+| Pattern Type | Time Complexity |
+|---|---|
+| Square Pattern | O(n²) |
+| Rectangle Pattern | O(rows × columns) |
+| Triangle Pattern | O(n²) |
+| Pyramid Pattern | O(n²) |
+| Diamond Pattern | O(n²) |
+
+## 💡 Key Learning
+
+Practiced nested loops, row-column relationships, number sequences, and star patterns to improve logical thinking and problem-solving skills.
+
 ## Language
 Java
 
