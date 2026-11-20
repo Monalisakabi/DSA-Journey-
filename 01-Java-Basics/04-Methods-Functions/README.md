@@ -6,6 +6,9 @@
 - Static Methods
 - Void Methods
 - Methods without Parameters
+- Methods with Parameters
+- Method Arguments
+- Reusability of Code
 
 ## 💻 Practice Programs
 
@@ -14,7 +17,9 @@
 | WelcomeMessage.java | Display a welcome message using a method | ✅ Completed |
 | PrintName.java | Print name using a method | ✅ Completed |
 | PrintEvenNumbers.java | Print even numbers from 1 to 20 using a method | ✅ Completed |
-
+| AddNumbers.java | Add two numbers using method parameters | ✅ Completed |
+| LargestNumber.java | Find the largest of two numbers using a method | ✅ Completed |
+| EvenOdd.java | Check whether a number is even or odd using a method | ✅ Completed |
 ## 🧠 Key Concepts Learned
 
 - A method is a reusable block of code that performs a specific task.
