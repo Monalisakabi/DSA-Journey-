@@ -19,13 +19,13 @@ This section documents my Java fundamentals, programming concepts, coding exerci
 | 1 | Variables and Data Types | ✅ Completed |
 | 2 | Conditional Statements | ✅ Completed |
 | 3 | Loops | ✅ Completed |
-| 4 | Pattern Programming | 🔄 In Progress |
-| 5 | Methods and Functions | ⏳ Upcoming |
+| 4 | Pattern Programming | ✅ Completed |
+| 5 | Methods and Functions | ✅ Completed |
 | 6 | Arrays Basics | ⏳ Upcoming |
 | 7 | Strings Basics | ⏳ Upcoming |
 | 8 | Object-Oriented Programming | ⏳ Upcoming |
 | 9 | Java Collections Framework | ⏳ Upcoming |
-| 10 | Recursion Basics | ⏳ Upcoming |
+| 10 | Recursion Basics | 🔄 Practiced within Methods |
 
 ## 💻 Programming Language
 
@@ -41,7 +41,8 @@ This section documents my Java fundamentals, programming concepts, coding exerci
 |---|---|---|
 | Day 1 | Variables, Data Types and Basic Java Programs | ✅ Completed |
 | Day 2 | Conditional Statements and Loops | ✅ Completed |
-| Day 3 | Pattern Programming | 🔄 In Progress |
+| Day 3 | Pattern Programming | ✅ Completed |
+| Day 4 | Methods, Functions, Return Values, Overloading and Recursion | ✅ Completed |
 
 ## 📂 Repository Structure
 
@@ -58,7 +59,11 @@ This section documents my Java fundamentals, programming concepts, coding exerci
 │   ├── README.md
 │   └── Java Practice Programs
 │
-└── 03-Pattern-Programming/
+├── 03-Pattern-Programming/
+│   ├── README.md
+│   └── Java Practice Programs
+│
+└── 04-Methods-Functions/
     ├── README.md
     └── Java Practice Programs
 ```
