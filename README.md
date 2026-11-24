@@ -26,6 +26,7 @@ This repository documents my daily coding practice, Java fundamentals, DSA conce
 | Day 4 | Methods, Functions and Recursion Basics | ✅ Completed |
 | Day 5 | Arrays Basics | ✅ Completed |
 | Day 6 | Strings Basics | ✅ Completed |
+| Day 7 | Array DSA Basics — Largest, Smallest, Second Largest, Sorted Array & Reversal | ✅ Completed |
 
 ## 📚 DSA Roadmap
 
@@ -53,9 +54,21 @@ This repository documents my daily coding practice, Java fundamentals, DSA conce
 DSA-Journey-/
 │
 ├── 01-Java-Basics/
+│
 ├── 02-Time-Space-Complexity/
+│
 ├── 03-Arrays/
+│   ├── README.md
+│   └── 01-Array-Basics/
+│       ├── README.md
+│       ├── LargestElement.java
+│       ├── SmallestElement.java
+│       ├── SecondLargestElement.java
+│       ├── CheckSortedArray.java
+│       └── ReverseArray.java
+│
 ├── 04-Strings/
+│
 ├── 05-Searching-Sorting/
 ├── 06-Recursion-Backtracking/
 ├── 07-LinkedList/
