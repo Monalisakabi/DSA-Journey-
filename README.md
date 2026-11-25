@@ -27,6 +27,7 @@ This repository documents my daily coding practice, Java fundamentals, DSA conce
 | Day 5 | Arrays Basics | ✅ Completed |
 | Day 6 | Strings Basics | ✅ Completed |
 | Day 7 | Array DSA Basics — Largest, Smallest, Second Largest, Sorted Array & Reversal | ✅ Completed |
+| Day 8 | Array Problem Solving — Move Zeros, Left Rotation, Remove Duplicates, Missing Number & Kadane's Algorithm | ✅ Completed |
 
 ## 📚 DSA Roadmap
 
@@ -59,13 +60,22 @@ DSA-Journey-/
 │
 ├── 03-Arrays/
 │   ├── README.md
-│   └── 01-Array-Basics/
+│   │
+│   ├── 01-Array-Basics/
+│   │   ├── README.md
+│   │   ├── LargestElement.java
+│   │   ├── SmallestElement.java
+│   │   ├── SecondLargestElement.java
+│   │   ├── CheckSortedArray.java
+│   │   └── ReverseArray.java
+│   │
+│   └── 02-Array-Problem-Solving/
 │       ├── README.md
-│       ├── LargestElement.java
-│       ├── SmallestElement.java
-│       ├── SecondLargestElement.java
-│       ├── CheckSortedArray.java
-│       └── ReverseArray.java
+│       ├── MoveZerosToEnd.java
+│       ├── LeftRotateArrayByOne.java
+│       ├── RemoveDuplicates.java
+│       ├── MissingNumber.java
+│       └── MaximumSubarraySum.java
 │
 ├── 04-Strings/
 │
