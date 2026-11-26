@@ -1,3 +1,6 @@
+cd D:\DSA-Journey-
+
+@'
 # 🚀 DSA Journey
 
 Welcome to my Data Structures and Algorithms (DSA) learning journey! 💻
@@ -28,6 +31,7 @@ This repository documents my daily coding practice, Java fundamentals, DSA conce
 | Day 6 | Strings Basics | ✅ Completed |
 | Day 7 | Array DSA Basics — Largest, Smallest, Second Largest, Sorted Array & Reversal | ✅ Completed |
 | Day 8 | Array Problem Solving — Move Zeros, Left Rotation, Remove Duplicates, Missing Number & Kadane's Algorithm | ✅ Completed |
+| Day 9 | Array Interview Problems — Two Sum, Sort 0s/1s/2s, Majority Element, Stock Buy & Sell, Leaders in Array | ✅ Completed |
 
 ## 📚 DSA Roadmap
 
@@ -51,7 +55,7 @@ This repository documents my daily coding practice, Java fundamentals, DSA conce
 
 ## 📂 Repository Structure
 
-```text
+\`\`\`text
 DSA-Journey-/
 │
 ├── 01-Java-Basics/
@@ -69,13 +73,21 @@ DSA-Journey-/
 │   │   ├── CheckSortedArray.java
 │   │   └── ReverseArray.java
 │   │
-│   └── 02-Array-Problem-Solving/
+│   ├── 02-Array-Problem-Solving/
+│   │   ├── README.md
+│   │   ├── MoveZerosToEnd.java
+│   │   ├── LeftRotateArrayByOne.java
+│   │   ├── RemoveDuplicates.java
+│   │   ├── MissingNumber.java
+│   │   └── MaximumSubarraySum.java
+│   │
+│   └── 03-Array-Interview-Problems/
 │       ├── README.md
-│       ├── MoveZerosToEnd.java
-│       ├── LeftRotateArrayByOne.java
-│       ├── RemoveDuplicates.java
-│       ├── MissingNumber.java
-│       └── MaximumSubarraySum.java
+│       ├── TwoSum.java
+│       ├── Sort012.java
+│       ├── MajorityElement.java
+│       ├── StockBuySell.java
+│       └── LeadersInArray.java
 │
 ├── 04-Strings/
 │
@@ -90,7 +102,7 @@ DSA-Journey-/
 ├── 13-Dynamic-Programming/
 ├── 14-Graphs/
 └── 15-Bit-Manipulation/
-```
+\`\`\`
 
 ## 🌐 Practice Platforms
 
@@ -111,3 +123,4 @@ I believe consistent practice, learning from mistakes, and solving problems ever
 ---
 
 ⭐ Learning, Practicing and Growing One Day at a Time! 🚀
+'@ | Set-Content -Path README.md
