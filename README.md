@@ -33,6 +33,7 @@ I am solving DSA problems step-by-step, focusing on understanding concepts, writ
 | Day 8 | Array Problem Solving | Move Zeros, Rotation, Remove Duplicates, Missing Number, Kadane's Algorithm |
 | Day 9 | Array Interview Problems | Two Sum, Sort 0s/1s/2s, Majority Element, Stock Buy & Sell, Leaders in Array |
 | Day 10 | Advanced Array Problems | 3Sum, Container With Most Water, Next Permutation, Maximum Product Subarray, Subarray Sum Equals K |
+| Day 11 | Binary Search | Binary Search, First & Last Occurrence, Search Insert Position, Floor & Ceil, Count Occurrences |
 
 ---
 
@@ -43,19 +44,27 @@ DSA-Journey-/
 │
 ├── 01-Java-Basics/
 │   ├── 05-Arrays/
-│   │
+│
 ├── 02-Time-Space-Complexity/
 │
 ├── 03-Arrays/
 │   ├── 01-Array-Basics/
 │   ├── 02-Array-Problem-Solving/
 │   ├── 03-Array-Interview-Problems/
-│   └── 04-Array-Advanced-Problems/
-│       ├── 3Sum.java
-│       ├── ContainerWithMostWater.java
-│       ├── NextPermutation.java
-│       ├── MaximumProductSubarray.java
-│       ├── SubarraySumEqualsK.java
+│   ├── 04-Array-Advanced-Problems/
+│   │   ├── 3Sum.java
+│   │   ├── ContainerWithMostWater.java
+│   │   ├── NextPermutation.java
+│   │   ├── MaximumProductSubarray.java
+│   │   ├── SubarraySumEqualsK.java
+│   │   └── README.md
+│   │
+│   └── 05-Binary-Search/
+│       ├── BinarySearch.java
+│       ├── FirstLastOccurrence.java
+│       ├── SearchInsertPosition.java
+│       ├── FloorCeil.java
+│       ├── CountOccurrences.java
 │       └── README.md
 │
 ├── 04-Strings/
@@ -127,39 +136,12 @@ DSA-Journey-/
 
 ## 🔥 Daily Progress
 
-**10 Days of DSA Practice Completed! 🎯**
+**11 Days of DSA Practice Completed! 🎯**
 
-Currently focusing on strengthening array problem-solving skills and learning optimized approaches for coding interviews.
+Currently focusing on strengthening array problem-solving skills, mastering Binary Search, and learning optimized approaches for coding interviews.
 
 ---
 
 ## 🌟 Keep Learning. Keep Coding. Keep Growing.
 
 ⭐ If you're following a similar journey, let's learn together!
-```
-
-### 📤 Push 7 — Update your root README
-
-Now run:
-
-```powershell
-cd D:\DSA-Journey-
-
-notepad README.md
-```
-
-Replace the old content with the above README, save it, and then run:
-
-```powershell
-git add README.md
-
-git commit -m "Update DSA journey progress for day 10"
-
-git pull --rebase origin main
-
-git push origin main
-```
-
-🏆 This will complete **Day 10 — all 7 pushes**!
-
-After Day 10, we can start **Day 11 with 5 new DSA problems**. 🚀
